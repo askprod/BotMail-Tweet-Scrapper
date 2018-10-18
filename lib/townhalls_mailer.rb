@@ -1,3 +1,4 @@
+
 require 'json'
 require 'gmail'
 require 'rubygems'
@@ -7,7 +8,7 @@ Dotenv.load
 
 def send_email_to_line(email, name)
     # Puts the sender email adress and password
-    gmail = Gmail.connect("thierryospital@gmail.com","Thierry200695")
+    gmail = Gmail.connect("testscrappingthp@gmail.com","scrap1810")
     email = gmail.compose do
     to "#{email}"
     # This is the content of the message
@@ -19,7 +20,7 @@ def send_email_to_line(email, name)
                 Bonjour,
             </p>
             <p>
-                Je m'appelle Jean Ducobu, je suis élève à The Hacking Project,
+                Je m'appelle Thierry, je suis élève à The Hacking Project,
                 une formation au code gratuite, sans locaux, sans sélection, sans restriction géographique.
             </p> 
             <p>
@@ -54,3 +55,4 @@ def go_through_all_line
 end
 
 #spammer.send_mail_to_townhall
+
