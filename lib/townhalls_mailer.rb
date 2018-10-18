@@ -20,7 +20,7 @@ def send_email_to_line(email, name)
                 Bonjour,
             </p>
             <p>
-                Je m'appelle Jean Ducobu, je suis élève à The Hacking Project,
+                Je m'appelle Thierry, je suis élève à The Hacking Project,
                 une formation au code gratuite, sans locaux, sans sélection, sans restriction géographique.
             </p> 
             <p>
