@@ -1,15 +1,21 @@
-# Envoi en masse d'emails
+# EmailSender - Bot Twitter - AutoFollow 
 
-### Membres de l'équipe de TOULOUSE
+### Membres de l'équipe de TOULOUSE :)
 
-Présentation de l'équipe THP de TOULOUSE : Patrick RAZAFINDRAKOTO(@Patpasha), Paul RIVIERE (@Paul Riviere), Paul TRIN DINH (@Paul Trin Dinh), Amine KANAFI (@KTVII), Thierry OSPITAL(@Thierry Ospital)
+L'équipe THP de TOULOUSE : 
+Patrick Razafindrakoto(@patpasha), Paul Riviere (@Blud7), Paul Trin-Dinh (@askprod), 
+Amine Kanafi (@KTVII), Thierry Ospital(@Swelly31)
 
 ### Objectif du programme
 
 Il s'agit là de créer un programme qui va scrapper les emails de 3 département français (Var, Morbihan et Alpes Maritime, soit 577 mairies), et de leur adresser un message de présentation du programme THP. Tout cela accompagné d'un follow sur leur compte Twitter
 
 ### Arborescence
+<<<<<<< HEAD
 '''
+=======
+```
+>>>>>>> df1c16bf8228f600be15a0458eb50aeedb53543c
 JOUR14
 |_____ app.rb
 |_____ README.md
@@ -27,7 +33,11 @@ JOUR14
               views
                 |_____ done.rb
                 |_____ index.rb
+<<<<<<< HEAD
 '''
+=======
+```
+>>>>>>> df1c16bf8228f600be15a0458eb50aeedb53543c
 ###  Installation
 
 Cloner le repo, puis rentrer dans ce dernier via la commande :
