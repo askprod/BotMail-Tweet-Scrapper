@@ -11,11 +11,7 @@ Amine Kanafi (@KTVII), Thierry Ospital(@Swelly31)
 Il s'agit là de créer un programme qui va scrapper les emails de 3 département français (Var, Morbihan et Alpes Maritime, soit 577 mairies), et de leur adresser un message de présentation du programme THP. Tout cela accompagné d'un follow sur leur compte Twitter
 
 ### Arborescence
-<<<<<<< HEAD
-'''
-=======
-```
->>>>>>> df1c16bf8228f600be15a0458eb50aeedb53543c
+
 JOUR14
 |_____ app.rb
 |_____ README.md
@@ -33,11 +29,7 @@ JOUR14
               views
                 |_____ done.rb
                 |_____ index.rb
-<<<<<<< HEAD
-'''
-=======
-```
->>>>>>> df1c16bf8228f600be15a0458eb50aeedb53543c
+
 ###  Installation
 
 Cloner le repo, puis rentrer dans ce dernier via la commande :
@@ -55,15 +47,7 @@ Pour lancer le programme, taper la commande suivante dans le Terminal :
 
 ### Comment ça fonctionne
 
-1- Le lancement de la commande (ruby app.rb) effectue le scrapping sur les 3 département pré-cités.... et récupère les adresses emails de toutes les mairies présentes dans ces départements
-
-2- Les noms des villes et leurs emails sont stockés dans un fichier json (townhalls.json) situé dans le dossier db (townhal_scrapper.rb)
-
-3 - Ce fichier json est ensuite lu par l'appi de lancement des emails (townhall_mailer.rb) qui va lancer les lancer via un compte gmail.
-
-4- l'appli twitter est ensuite lancée via le fichier townhall_follower.rb et va récupèrer le nom des villes dans le fichier json. Il va ensuite follower les comptes twitter de ces villes.
-
-
+Le lancement de la commande (ruby app.rb) effectue le scrapping sur les 3 département pré-cités....
 
 
 
