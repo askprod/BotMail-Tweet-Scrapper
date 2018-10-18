@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require 'json'
 require 'gmail'
 require 'rubygems'
@@ -54,3 +55,6 @@ def go_through_all_line
 end
 
 #spammer.send_mail_to_townhall
+=======
+#Mailer : Thierry et Amine
+>>>>>>> 5d1861ed9ad711407337a3ae19d6ad24f790e8c5
