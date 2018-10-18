@@ -1,8 +1,10 @@
-# Envoi en masse d'emails
+# EmailSender - Bot Twitter - AutoFollow 
 
-### Membres de l'équipe de TOULOUSE
+### Membres de l'équipe de TOULOUSE :)
 
-Présentation de l'équipe THP de TOULOUSE : Patrick RAZAFINDRAKOTO(@Patpasha), Paul RIVIERE (@Paul Riviere), Paul TRIN DINH (@Paul Trin Dinh), Amine KANAFI (@KTVII), Thierry OSPITAL(@Thierry Ospital)
+L'équipe THP de TOULOUSE : 
+Patrick Razafindrakoto(@patpasha), Paul Riviere (@Blud7), Paul Trin-Dinh (@askprod), 
+Amine Kanafi (@KTVII), Thierry Ospital(@Swelly31)
 
 ### Objectif du programme
 
