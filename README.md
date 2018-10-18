@@ -11,7 +11,7 @@ Amine Kanafi (@KTVII), Thierry Ospital(@Swelly31)
 Il s'agit là de créer un programme qui va scrapper les emails de 3 département français (Var, Morbihan et Alpes Maritime, soit 577 mairies), et de leur adresser un message de présentation du programme THP. Tout cela accompagné d'un follow sur leur compte Twitter
 
 ### Arborescence
-
+```
 JOUR14
 |_____ app.rb
 |_____ README.md
@@ -29,6 +29,8 @@ JOUR14
               views
                 |_____ done.rb
                 |_____ index.rb
+
+```
 
 ###  Installation
 
