@@ -8,7 +8,7 @@ Dotenv.load
 
 def send_email_to_line(email, name)
     # Puts the sender email adress and password
-    gmail = Gmail.connect("testscrappingthp@gmail.com","scrap1810")
+    gmail = Gmail.connect("***********","*******")
     email = gmail.compose do
     to "#{email}"
     # This is the content of the message
